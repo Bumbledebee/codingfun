@@ -1,0 +1,3 @@
+[submodule "themes/codingfun"]
+  path = themes/codingfun
+  url = https://github.com/Bumbledebee/codingfun.git
